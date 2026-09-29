@@ -1,0 +1,10 @@
+{
+  "id": 166111553,
+  "created_at": "2026-09-29T10:30:08.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["gghalftone"]
+}
